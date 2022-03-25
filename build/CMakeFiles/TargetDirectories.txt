@@ -1,0 +1,3 @@
+C:/programs/CPP_programs/proj1/build/CMakeFiles/main_cmake.dir
+C:/programs/CPP_programs/proj1/build/CMakeFiles/edit_cache.dir
+C:/programs/CPP_programs/proj1/build/CMakeFiles/rebuild_cache.dir

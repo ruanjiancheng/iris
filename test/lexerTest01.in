@@ -1,0 +1,6 @@
+int a = 5;
+int b;
+int c=3;
+if (a <= b) {
+    c = 4
+}
