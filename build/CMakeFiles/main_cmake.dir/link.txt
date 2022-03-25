@@ -1,3 +1,0 @@
-C:\environment\cmake\bin\cmake.exe -E rm -f CMakeFiles\main_cmake.dir/objects.a
-C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe qc CMakeFiles\main_cmake.dir/objects.a @CMakeFiles\main_cmake.dir\objects1.rsp
-C:\PROGRA~1\CODEBL~1\MinGW\bin\X86_64~2.EXE  -Wall -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\main_cmake.dir/objects.a -Wl,--no-whole-archive -o main_cmake.exe -Wl,--out-implib,libmain_cmake.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\main_cmake.dir\linklibs.rsp

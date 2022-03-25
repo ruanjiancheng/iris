@@ -1,5 +1,17 @@
 # iris
-一个简单的计算器
+一个使用 cpp 编写的简单脚本。
+
+构建项目：
+
+```shell
+cd /build
+
+cmake ..
+
+make
+```
+
+
 
 ```shell
 \iris\build>.\main_cmake
