@@ -4,6 +4,8 @@
 构建项目：
 
 ```shell
+mkdir build
+
 cd /build
 
 cmake ..
