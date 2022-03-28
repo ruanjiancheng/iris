@@ -37,7 +37,7 @@ good bye!
 
 使用 `-v` 可以查看当前脚本的 AST
 
-```
+```shell
 \iris\build>.\main_cmake -v
 verbose mode
 Welcome to iris!
